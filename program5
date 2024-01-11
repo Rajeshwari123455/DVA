@@ -1,0 +1,62 @@
+Prediction Profiler:
+
+Load Data:
+Open JMP and load the dataset containing process conditions and responses.
+
+Fit a Model:
+Under the Analyze menu, choose Fit Model.
+Select the response variable and predictors.
+Use the Prediction Profiler in the red triangle menu to visualize the effect of predictor variables on the response.
+
+Explore Desirability:
+Utilize the Desirability Profiler to identify the combination of process conditions that maximizes the desirability.
+
+Monte Carlo Simulation:
+
+Specify Variables:
+In the Fit Model report, go to the red triangle menu and choose Simulate Y > By Design.
+Specify the variables for which you want to perform the simulation.
+
+Set Number of Runs:
+Choose the number of Monte Carlo runs in the dialog box.
+Specify the distribution for each variable if needed.
+
+Run Simulation:
+Click "OK" to run the Monte Carlo simulation.
+
+Analyze Results:
+Examine the distribution of the response variable and understand the variability in the predicted outcomes under different conditions.
+
+Simulation Experiment:
+
+Define Factors:
+Under the Simulate menu, choose Define Factor Settings to set up factors and their levels.
+
+Specify Responses:
+Specify the responses you want to study during the simulation experiment.
+
+Design Experiment:
+Use the Custom Design option to create an experimental design for the simulation experiment.
+
+Run Simulation Experiment:
+Go to the Simulate menu and choose Run Simulation Experiment.
+
+Analyze Results:
+Use the Profiler to visualize the effects of different factors on responses.
+Evaluate the desirability under various conditions.
+
+Optimize Using Response Surface Methodology (Optional):
+
+Fit Response Surface Model:
+Use the Fit Model platform and select the Response Surface Design option to fit a response surface model.
+
+Optimize Desirability:
+Use the Response Optimizer in the red triangle menu to find the optimal process conditions that maximize desirability.
+
+Save and Share:
+
+Save Analyses:
+Save your analyses and reports by going to File > Save.
+
+Share Results:
+Export specific analyses or reports as needed for sharing.
