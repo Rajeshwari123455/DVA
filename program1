@@ -1,0 +1,38 @@
+Step 1: Import Your Data
+Open JMP and go to File > Open to import your dataset.
+Select your data file and choose the appropriate options for importing (e.g., CSV, Excel).
+
+Step 2: Explore Data Overview
+Once your data is loaded, go to the Explore menu.
+Click on Exploration to get an overview of your data, including summary statistics and visualizations.
+
+Step 3: Create Basic Graphs
+Navigate to the Graph menu.
+Choose the type of graph you want to create (e.g., histogram, scatterplot, box plot).
+Drag and drop variables from the data table onto the graph to specify the axes and customize the appearance.
+
+Step 4: Dynamic Data Filtering
+Use the Filter option to dynamically subset your data based on specific criteria.
+Click on the filter icon next to a variable, set conditions, and observe how the graphs update dynamically.
+
+Step 5: Interactive Maps
+If your data includes geographical information, go to the Graph menu.
+Choose Map to create an interactive map.
+Drag and drop variables to define the map's features and colors.
+
+Step 6: Advanced Graphs and Reports
+Explore more advanced graphs under the Graph menu, such as contour plots or bubble plots.
+Use the Fit Y by X option to explore relationships between variables and fit regression lines.
+Create reports by selecting relevant graphs and going to File > New Report.
+
+Step 7: Dashboard Creation
+Combine multiple graphs into a dashboard for a comprehensive view.
+Go to Window > New Dashboard and drag graphs onto the dashboard space.
+Customize the layout and appearance of the dashboard.
+
+Step 8: Sharing and Exporting
+Once satisfied with your analysis, go to File > Save to save your JMP project.
+To share results, you can export individual graphs or the entire report as images, PDFs, or HTML.
+
+Step 9: Scripting (Optional)
+For more advanced users, consider exploring the JMP scripting language (JSL) to automate analyses and create customized solutions.
