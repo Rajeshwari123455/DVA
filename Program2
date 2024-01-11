@@ -1,0 +1,72 @@
+Descriptive Statistics:
+Load Data:
+
+Open JMP and load your dataset.
+Explore Data:
+
+Navigate to the Analyze menu.
+Use options like Distribution and Summary Statistics to get descriptive statistics for your variables.
+ANOVA (Analysis of Variance):
+Navigate to ANOVA:
+
+Under the Analyze menu, choose Fit Y by X.
+Select your dependent variable (Y) and independent variable (X).
+Choose the ANOVA option for comparing means.
+Examine Results:
+
+Review the ANOVA table for significance levels.
+Explore post-hoc tests if there are significant differences.
+Regression Analysis:
+Navigate to Regression:
+
+Under the Analyze menu, choose Fit Model.
+Select your response variable and predictors.
+Specify Model:
+
+Add terms to your model.
+Use stepwise selection or specify custom terms based on your hypothesis.
+Examine Results:
+
+Review the regression coefficients, p-values, and R-squared.
+Validate assumptions, like normality and homoscedasticity.
+Probability Distributions:
+Fit Distributions:
+
+Under the Analyzing Distribution option, select your variable.
+Choose Fit Distribution.
+Explore various distributions and choose the best fit.
+Validate Distributions:
+
+Use goodness-of-fit tests or visual assessments to validate fitted distributions.
+Tolerance & Prediction Intervals:
+Fit Model:
+
+Use the Fit Model platform to create your regression model.
+Interval Options:
+
+In the Fit Model report, under the red triangle, choose Profiler.
+Explore Prediction Profiler to get prediction intervals.
+Bootstrapping:
+Bootstrap Sample:
+
+Under Analyze > Distribution, select your variable.
+Choose Bootstrapping and set the number of bootstrap samples.
+Analyze Results:
+
+Examine the distribution of bootstrap statistics.
+Construct confidence intervals based on the bootstrap samples.
+Randomization:
+Perform Randomization Test:
+
+In the Fit Model platform, choose Personality and then Randomization.
+Specify the response and predictor variables.
+Analyze Results:
+
+Review the randomization distribution and assess the p-value.
+Save and Share:
+Save Analyses:
+
+Save your analyses and reports by going to File > Save.
+Share Results:
+
+Export specific analyses or reports as needed for sharing.
